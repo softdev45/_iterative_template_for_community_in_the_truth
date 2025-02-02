@@ -1,11 +1,11 @@
 val|chr|  
-  0| א | 
-  1| ב |
-  3| ג |
-  4| ד |
-  5| ה |
-  6| ו |
-  7| ז |
+  0| א | ox, bull, gentle, tame, the leader, strength, what is first, Adonai(Lord), thousand, teach
+  1| ב | tent, house, the body, household, family, inside, within, in, amind, heart
+  3| ג | camel, foot, something lifted up (like camel from it's knees), self-will or pride
+  4| ד | door, pathway, movement (into or out of), path, way of life
+  5| ה | behold, overwhelmed, show, reveal, spirit
+  6| ו | nail, peg, hook, join (together), making secure, becoming bound (nailed to), add, connect, and
+  7| ז | plow, weapon, cut off
   8| ח |
   9| ט |
  10| י |
