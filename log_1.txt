@@ -1,0 +1,26 @@
+#TheTruth==TheLife==TheWay==TheLight==TheTrueVine
+
+@V(Mat,22:36-40):
+Mat 22:36
+“Teacher, which is the great commandment in the Law?”
+Mat 22:37
+Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+Mat 22:38
+This is the first and great commandment.
+Mat 22:39
+And the second is like unto it, Thou shalt love thy neighbour as thyself.
+Mat 22:40
+On these two commandments hang all the law and the prophets.
+$V(Mat,22:36-40):
+
+@V(Mat,7:12):
+Mat 7:12
+Therefore
+all things whatsoever 
+ye would that men should do to you, 
+do ye even so to them:
+for this is the law and the prophets.
+
+#(ye=(plural you))
+@!V(Mat,7:12):
+
